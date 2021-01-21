@@ -14,3 +14,6 @@ likewise
 this
 
 this is a new paragraph
+
+
+inserting an image: ![]
