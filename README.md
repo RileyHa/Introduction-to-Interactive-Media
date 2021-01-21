@@ -12,3 +12,5 @@ so is this
 and this too
 likewise
 this
+
+this is a new paragraph
