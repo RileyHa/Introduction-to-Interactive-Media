@@ -17,3 +17,7 @@ this is a new paragraph
 
 
 inserting an image: ![]
+
+how do you make a list?
+- edit my file
+   - like this?
