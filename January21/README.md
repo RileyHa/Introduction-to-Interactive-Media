@@ -1,4 +1,4 @@
-# Assignment 1: Self Portrait 
+# Assignment 1: Self Portrait (Due 26th, Jan)
 
 ## Project Description
 The project aims to draw a non-dynamic version of portrait of myself entirely by code using basic drawing functions inside Processing. The main functions that I used are: size(), rect(), ellipse(), circle(), fill(), noFill(), arc().
