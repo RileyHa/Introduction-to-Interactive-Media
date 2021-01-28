@@ -6,7 +6,8 @@ I used simple shape functions to create a minimized version of my self portrait.
 
 Below is the image of my final self portrait:
 
-![](RileySelfPortrait.png)
+![](images/RileySelfPortrait.png)
+
 
 
 ## Process 
