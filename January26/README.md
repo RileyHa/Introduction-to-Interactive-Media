@@ -6,6 +6,8 @@ I used simple shape functions to create a minimized version of my self portrait.
 
 Below is the image of my final self portrait:
 
+![](images/Screen Shot 2021-01-28 at 5.30.31 PM.png)
+
 
 ## Process 
 
