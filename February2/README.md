@@ -17,6 +17,21 @@ This is the animation that shows my second version:
 ![](images/Ass2B.gif)
 - The concept of this version is broken Space and Galaxy. 
 - Some lines and dots will randomly appear like this: 
-![](images/Ass2a_NotClicked.png)
+![](images/Ass2b_NotClicked.png)
 - When the user takes an action of clicking the mouse, the screen will display lines with randomized color, length, and thickness.
-![](images/Ass2a_Clicked.png)
+![](images/Ass2b_Clicked.png)
+
+## Process
+1) Working on the rough draft
+- I had to think of an motif. My motivations came while stargazing XD
+2) Creating the display
+- I wanted the screen to be relatively large, so I set the screen to 600 X 800.
+- The background color of both versions were black.
+3) Working on codes
+- I used for loops for both versions.
+- The if / else statements inside the for loops made me able to display different screens depending on the user's input.
+- I applied the shapes that we have learned in the previous lessons (circle, line).
+
+## Challenges
+- Figuring out how to create random lines 
+- Computational drawing 
