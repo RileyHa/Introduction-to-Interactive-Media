@@ -37,6 +37,25 @@ This is the animation that shows my second version:
 - The if / else statements inside the for loops made me able to display different screens depending on the user's input.
 - I applied the shapes that we have learned in the previous lessons (circle, line).
 
+## How did I use for-loops?
+As you see in the code, I used if loops inside the for loops. The logics of the two versions are similar.
+
+for (int initial=1; initial<5; initial++) { // Although the initial is not used in the latter code, the initial<X manages how many lines or circles gets drawn
+    float location= random(0, width); // This was the variable for locations of both the lines and circles.
+    float len = random(0, height); // This was the variable for length of the line
+
+    if (mousePressed) { // If the user makes an action (clicking)
+      strokeWeight(random(0, 5)); // There will be a line (circle) with random thickness,
+      stroke(random(0, 255), random(0, 255), random(0, 255)); // random color, 
+      line(location, len, location, random(0, height)); // and random location
+    } else { // if not, 
+      background(0, 0, 0); // there would only be a blank space for the second version
+      stroke(random(0, 255), random(0, 255), random(0, 255)); // and some randomly appearing lines 
+      circle(location, random(0, height), 3); // and circles with random location and size for the first version
+      line(location, random(0, height), location, random(0, height));
+    }
+  }
+
 ## Challenges
 - Figuring out how to create random lines 
 - Computational drawing 
