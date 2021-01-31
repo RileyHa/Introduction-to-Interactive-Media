@@ -20,10 +20,10 @@ Below is the animation that shows my first version of interactive graphic art:
 This is the animation that shows my second version:
 
 ![](images/Ass2B.gif)
-- The concept of this version is broken Space and Galaxy. 
-- Some lines and dots will randomly appear like this: 
+- The concept of this version is space and galaxy. 
+- The blank page with black background will appear:
 ![](images/Ass2b_NotClicked.png)
-- When the user takes an action of clicking the mouse, the screen will display lines with randomized color, length, and thickness.
+- When the user takes an action of clicking the mouse, the screen will display dots (circles) with randomized color and size.
 ![](images/Ass2b_Clicked.png)
 
 ## Process
