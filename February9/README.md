@@ -7,7 +7,7 @@ In this project, we had to make a simple game or artwork using object oriented p
 
 Below is the animation that shows how my game turned out:
 
-![](images/.gif)
+![](images/gameDemo.gif)
 
 ## Process
 1) Working on the rough draft
