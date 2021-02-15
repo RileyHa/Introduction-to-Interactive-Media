@@ -11,7 +11,7 @@ I used to learn Personal Training or Workout. However, due to COVID-19, it is un
 
 ### Final Product
 
-Below is the gif file of the demonstration:
+Below is the gif file of the sample demonstration:
 
 ![](Images/febe.gif)
 
@@ -55,6 +55,13 @@ The same thing applied to fonts; I wanted to use different types of fonts for di
 For fonts, you also need to declare a variable. The loadFont() function will help you use the font.
 
 **Display randomized workouts from the csv file**
+
+There were 4 different csv files I imported.
+![](Images/female_beginner.png)
+![](Images/female_advanced.png)
+![](Images/male_beginner.png)
+![](Images/male_advanced.png)
+
 
 The overall process went like this:
 1) Load the data in table
