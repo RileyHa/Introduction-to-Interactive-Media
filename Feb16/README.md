@@ -57,9 +57,17 @@ For fonts, you also need to declare a variable. The loadFont() function will hel
 **Display randomized workouts from the csv file**
 
 There were 4 different csv files I imported.
+
+1) Female Beginner
 ![](Images/female_beginner.png)
+
+2) Female Advanced
 ![](Images/female_advanced.png)
+
+3) Male Beginner
 ![](Images/male_beginner.png)
+
+4) Male Advanced
 ![](Images/male_advanced.png)
 
 
