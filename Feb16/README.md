@@ -13,7 +13,7 @@ I used to learn Personal Training or Workout. However, due to COVID-19, it is un
 
 Below is the gif file of the demonstration:
 
-![](Images/.gif)
+![](Images/febe.gif)
 
 
 ### Description 
@@ -24,7 +24,7 @@ The page is consisted of images designed by me. The program recognizes the mouse
 
 Image of the first starting page is attached below:
 
-![](Images/.png)
+![](Images/startpage.png)
 
 Once the users have clicked something, they will be directed to the actual workout planning page. 
 Here, the workouts can be divided into 4-5 categories (cardio, core, arm, etc) and they will get detailed names of the workouts, depending on what the user has selected.
@@ -37,9 +37,11 @@ I created a random csv file containing of different types of workouts for:
 
 The users will confront different workout times and programs every time they refresh the program.
 
-Sample images of the four different pages are attached below:
+Sample images of the other three different pages are attached below:
 
-![](Images/.png)
+![](Images/fead.gif)
+![](Images/mabe.gif)
+![](Images/maad.gif)
 
 
 ### Interesting Lessons
