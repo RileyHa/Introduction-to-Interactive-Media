@@ -53,11 +53,12 @@ The same thing applied to fonts; I wanted to use different types of fonts for di
 For fonts, you also need to declare a variable. The loadFont() function will help you use the font.
 
 **Display randomized workouts from the csv file**
+
 The overall process went like this:
-1. Load the data in table
-2. Create a string for the variables
-3. Import random variables from the table to the string
-4. Display string
+1) Load the data in table
+2) Create a string for the variables
+3) Import random variables from the table to the string
+4) Display string
 
 ### Challenges & Further Goals
 
