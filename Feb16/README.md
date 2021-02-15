@@ -1,6 +1,6 @@
 
 
-# Assignment 4:Data visualization & Generative Text
+# Assignment 4: Data visualization / Generative Text
 
 ## Personal Workout (Training) Manager 
 
