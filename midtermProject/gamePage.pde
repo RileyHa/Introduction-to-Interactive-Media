@@ -8,8 +8,6 @@ class gamePage {
   ArrayList<Integer> ingOnBun = new ArrayList<Integer>();
   ArrayList<Integer> customerOrder = new ArrayList<Integer>();
 
-
-
   void getOrder() {
     for (int i=0; i<5; i++) {
       customerOrder.add(int(random(0, 3)));
@@ -59,8 +57,6 @@ class gamePage {
       text(customerOrder.get(2), 340, 160);
       text(customerOrder.get(3), 470, 160);
       text(customerOrder.get(4), 600, 160);
-
-
 
       image(bottom, mouseX-41.5, 850);
       int ing;
@@ -112,7 +108,6 @@ class gamePage {
     print(countSauce);
     int countTomato = Collections.frequency(ingOnBun, 4);
     print(countTomato);
-
 
     if ((customerOrder.get(0) == countBeef)&& (customerOrder.get(1) == countCheese) && (customerOrder.get(2) == countLettuce) && (customerOrder.get(3) == countSauce) && (customerOrder.get(4) == countTomato)) {
       chaching.play();
