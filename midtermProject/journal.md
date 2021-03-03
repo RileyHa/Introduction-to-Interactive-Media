@@ -13,9 +13,10 @@ I will use the following demo icon of the falling ingredients.
 
 ### Feb 24 (Designs, Making images, Start page)
 1. I decided to use image files for the buttons that lead to the instruction page and the game to start. Following are the icon buttons.
-![](images/buttons.png)
+![](images/start.png)
+![](images/howtoplay.png)
 2. I finished designing the starting page as attached below. 
-![](images/startpage.png)
+![](images/startPage.png)
 3. I also finished the illustrations of the falling ingredients. 
 ![](images/ingredients.png)
 4. I used mouseClicked() function to check if the user has clicked the buttons or not.
