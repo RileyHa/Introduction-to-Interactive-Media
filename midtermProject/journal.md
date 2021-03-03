@@ -13,8 +13,7 @@ I will use the following demo icon of the falling ingredients.
 
 ### Feb 24 (Designs, Making images, Start page)
 1. I decided to use image files for the buttons that lead to the instruction page and the game to start. Following are the icon buttons.
-![](images/start.png)
-![](images/howtoplay.png)
+![](images/buttons.png)
 2. I finished designing the starting page as attached below. 
 ![](images/startPage.png)
 3. I also finished the illustrations of the falling ingredients. 
