@@ -216,3 +216,6 @@ void finishBurger() {
     }
   }
 ```
+### March 2 (Adding sounds)
+- I finished the project!
+- 
