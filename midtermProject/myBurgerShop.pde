@@ -83,5 +83,3 @@ void mouseClicked() {
   clickmus.play();
 }
 
-
-// make the screen background appear once (no refresh)
