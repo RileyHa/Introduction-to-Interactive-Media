@@ -19,7 +19,7 @@ I will use the following demo icon of the falling ingredients.
 
 ![](images/startpage1.png)
 
-3. I also finished the illustrations of the falling ingredients. 
+3. I also finished the illustrations of the falling ingredients. (Drawn by me with Procreate)
 
 ![](images/ingredients.png)
 
