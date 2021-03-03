@@ -28,7 +28,7 @@ Here, the player can either click 'How to Play' button or 'Start' button.
 
 When the player clicks the 'How to Play' button, this page will appear.
 
-![](images/howto1.png)
+![](images/howto.png)
 
 The player can take a look at the instruction and rule of the game. 
 If the player clicks the 'BACK' button, it will lead him/her back to the starting page.
