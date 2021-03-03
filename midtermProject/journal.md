@@ -18,7 +18,7 @@ I will use the following demo icon of the falling ingredients.
 ![](images/startpage1.png)
 3. I also finished the illustrations of the falling ingredients. 
 ![](images/ingredients.png)
-4. I used mouseClicked() function to check if the user has clicked the buttons or not.
+5. I used mouseClicked() function to check if the user has clicked the buttons or not.
 ```
 ```
 
