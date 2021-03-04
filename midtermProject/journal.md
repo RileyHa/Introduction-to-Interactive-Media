@@ -217,5 +217,7 @@ void finishBurger() {
   }
 ```
 ### March 2 (Adding sounds)
+- I added the sounds (when clicking a mouse, when the player got the order right)
+    - clickmus
+    - cha-ching
 - I finished the project!
-- 
