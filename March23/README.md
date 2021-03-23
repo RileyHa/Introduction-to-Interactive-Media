@@ -9,7 +9,32 @@ I made a game where you are given a random number and you need to press differen
 
 I got this idea from a Korean game in which you have to match the assigned random number by adding different numbers (pressing buttons in this case). 
 
-## 3. Schematic & Photos
+## 3. How to Play
+
+As you can infer from the schematic attached below, I have 4 LEDs and 4 Switches. 
+
+I assigned different numbers to different switches.
+- Red = 1
+- Yellow = 2
+- Green = 5
+- Blue = 10
+
+The player gets a random number (target) from 1 to 30.
+
+The goal is to add up to the number by pressing the switches.
+
+For example, consider my random number as 17.
+
+Then I would have various choices such as:
+- Pressing Blue (10) - Green (5) - Yellow (2)
+- Pressing Green (5) - Green (5) - Green (5) - Yellow (2)
+- Pressing Red 17 times
+- And so on.
+
+If the player gets the correct random number, all of the lights will turn on for split seconds and then turn off.
+
+
+## 4. Schematic & Photos
 
 ### Schematic
 
@@ -18,6 +43,7 @@ Following is the Schematic:
 
 ### Photos
 
+These are the real photos:
 ![](Images/photo1.jpeg)
 ![](Images/photo2.jpeg)
 ![](Images/photo3.jpeg)
