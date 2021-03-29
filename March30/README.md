@@ -9,7 +9,6 @@ It was hard for me to think of an idea considering a project that implements bot
 I got my idea from number guessing game in which one person thinks of a random number and the other person has to guess the number.
 
 **How to play**
-
 1) Start the program.
 2) One person has to hide the potentiometer so that the other person cannot see.
 3) All of the four lights will turn on.
@@ -56,7 +55,7 @@ Blue LED:
 ## Final Game Demo
 
 [![Watch video](Images/videoimg.png)](https://youtu.be/TWAe34TOLVE)
-
+Click on the image to watch the video demo
 
 ## Challenge & Interesting Ideas 
 
