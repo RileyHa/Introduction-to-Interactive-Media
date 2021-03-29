@@ -5,6 +5,7 @@ For today's assignment, we were told to create an arduino project that gets info
 Thus, I created a project where two people can play a light guessing game.
 
 **How I got my idea**
+
 It was hard for me to think of an idea considering a project that implements both analog and digital fashion.
 I got my idea from number guessing game in which one person thinks of a random number and the other person has to guess the number.
 
