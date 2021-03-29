@@ -4,11 +4,11 @@
 For today's assignment, we were told to create an arduino project that gets information from at least one analog sensor and at least one digital sensor (switch), and use this information to control at least two LEDs, one in a digital fashion and the other in an analog fashion.
 Thus, I created a project where two people can play a light guessing game.
 
-## How I got my idea
+**How I got my idea**
 It was hard for me to think of an idea considering a project that implements both analog and digital fashion.
 I got my idea from number guessing game in which one person thinks of a random number and the other person has to guess the number.
 
-**How to play**
+## How to play
 1) Start the program.
 2) One person has to hide the potentiometer so that the other person cannot see.
 3) All of the four lights will turn on.
@@ -16,7 +16,7 @@ I got my idea from number guessing game in which one person thinks of a random n
 5) The player has to guess which of the four light will be on once the switch is pressed. 
 6) Keep in mind that the switch turns off all the lights except for one within the value range.
 
-**Where did I use Analog and Digital fashion?**
+## Where did I use Analog and Digital fashion?
 - Analog
   - Potentiometer : creates differences in value and helps display four different light (R,Y,G,B) according to the value.
   - analogRead
