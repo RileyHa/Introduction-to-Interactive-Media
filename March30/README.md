@@ -34,22 +34,28 @@ Below is the schematic for the project:
 ## Images of the circuit
 ![](Images/circuit1.jpeg)
 ![](Images/circuit2.jpeg)
-![](Images/circuit3.jpeg)
+
 
 ## Images for instruction
+Start (Right after running the program):
 ![](Images/start.jpeg)
+
+Red LED:
 ![](Images/red.jpeg)
+
+Yellow LED:
 ![](Images/yellow.jpeg)
+
+Green LED:
 ![](Images/green.jpeg)
+
+Blue LED:
 ![](Images/blue.jpeg)
 
 
 ## Final Game Demo
 
-[![Watch the video](Images/youtubeimage.png)](https://youtu.be/YMRoeIXkoDQ)
-
-Below is the GIF of four patterns you will receive when you dial potentiometer. 
-They are in order of the answer. 
+[![Watch the video](Images/videoimg.png)](https://youtu.be/YMRoeIXkoDQ)
 
 
 ## Challenge & Interesting Ideas 
@@ -64,7 +70,6 @@ I had to google some images for reference.
 
 Following was the schematic that I drew before remembering the input and output rule:
 ![](Images/wrongschematic.jpeg)
-
 
 
 ### Potentiometer Value Range!
