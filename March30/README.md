@@ -79,5 +79,11 @@ Thus, I came to realize that the potentiometer changes the resistance.
 "Arduino has an analogRead range from 0 to 1023, and an analogWrite range only from 0 to 255, therefore the data from the potentiometer needs to be converted to fit into the smaller range before using it to dim the LED."
 - https://www.arduino.cc/en/tutorial/potentiometer
 
+Professor told us the easier way to figure out!
+```
+int sensorvalue = analogRead(potPin);
+int whichLED = map(sensorValue, 0, 1023, 1, 4);
+```
+
 ### Prioritizing
 A simple change in the location of the code may result in huge difference!
