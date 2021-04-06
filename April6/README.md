@@ -32,7 +32,7 @@ Photoresistor,Yellow momentary switch, and Piezo Buzzer (Speaker)
 
 Click on the Image to watch me play "Mary Had a Little Lamb" song for demo!
 
-![](Images/youtube.png)]()
+[![](Images/youtube.png)](https://youtu.be/eaGyPvCRCVI)]
 
 
 ## Circuit
