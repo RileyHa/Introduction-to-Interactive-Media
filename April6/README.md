@@ -13,7 +13,7 @@ I used the photoresistor as the analog input. The player can create higher pitch
 
 ## Schematic
 Below is the schematic for the project:
-![](Images/schematic.png)
+![](Images/schematic.jpeg)
 
 
 ### How to:
