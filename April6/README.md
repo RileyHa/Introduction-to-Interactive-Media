@@ -46,7 +46,7 @@ Click on the Image to watch me play "Mary Had a Little Lamb" song for demo!
 
 Because I could not attend class last week due to condition difficulties, I had some difficulties with following the tune function even after watching the recordings. Thus, I used some youtube videos as my reference for better understanding. 
 
-**Useful sources: **
+**Useful sources:**
 
 - https://youtu.be/J8XNTHETgxU
 - http://samsneatprojectblogcode.blogspot.com/2016/06/arduino-instrument-code-and-fritzing.html
