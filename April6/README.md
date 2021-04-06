@@ -4,9 +4,11 @@
 For this week, we were told to make a music instrument using both digital and analog sensors. Thus, I made an instrument that uses the piezo buzzer as the actuator.  
 
 **Digital**
+
 I used the momentary yellow Switch as the digital input sensor. If the user presses the button, the music will play. In order to create the sound, the player must constantly press the switch. 
 
 **Analog**
+
 I used the photoresistor as the analog input. The player can create higher pitches by moving one's hand closer to the photoresistor (blocking out more light), and lower the pitches by moving further away. 
 
 ## Schematic
@@ -15,11 +17,11 @@ Below is the schematic for the project:
 
 
 ### How to:
-**Components: **
+**Components:**
 
 Photoresistor,Yellow momentary switch, and Piezo Buzzer (Speaker)
 
-**Instructions: **
+**Instructions:**
 
 1. Press the Yellow Button to start playing the instrument.
 2. Move closer to the photoresistor for higher pitches
