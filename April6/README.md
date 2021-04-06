@@ -36,11 +36,7 @@ Click on the Image to watch me play "Mary Had a Little Lamb" song for demo!
 ## Circuit
 
 
-![alt-text](Images/circuit1.jpeg)
-
-![alt-text](Images/circuit2.jpeg)
-
-![alt-text](Images/circuit3.jpeg)
+![alt-text](Images/circuit1.jpeg) ![alt-text](Images/circuit2.jpeg) ![alt-text](Images/circuit3.jpeg)
 
 
 
