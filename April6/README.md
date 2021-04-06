@@ -54,6 +54,7 @@ Because I could not attend class last week due to condition difficulties, I had 
 
 - https://youtu.be/J8XNTHETgxU
 - http://samsneatprojectblogcode.blogspot.com/2016/06/arduino-instrument-code-and-fritzing.html
+- https://www.arduino.cc/en/Tutorial/BuiltInExamples/toneMelody
 
 
 I decided to give a twist of the aforementioned source (How to make an Instrument). My twist was to 1) use the photoresistor instead of the sonar sensor and 2) use the yellow switch instead of the force sensitive resistor.
