@@ -19,8 +19,8 @@ I have attached the schematic down below.
 ## Final Circuit
 
 Below are the images for my final circuit.
-![alt-text](Images/circuit1.png)
-![alt-text](Images/circuit2.png)
+![alt-text](Images/IMG_2142.jpg)
+![alt-text](Images/IMG_2143.jpg)
 
 
 ## Game Demonstration  
