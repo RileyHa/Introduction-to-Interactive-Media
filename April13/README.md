@@ -14,7 +14,7 @@ This week, we were instructed to make a simple game that involves communication 
 ## Schematic 
 
 I have attached the schematic down below. 
-![alt-text](Images/schematic.jpg)
+![alt-text](Images/IMG_0734.jpg)
 
 ## Final Circuit
 
@@ -40,6 +40,12 @@ GIF File 2: recording of my action
 ## Challenge & Process
 
 As I had imagined, the communication between the Arduino and Processing was very difficult for me. I mainly think that not using Processing for the last few weeks totally had some influence. 
+
+### Drawing the images
+
+I first started with making the illustrations for ice cream and cone.
+I have attached the two files down below.
+![alt-text](Images/IMG_0733.jpg)
 
 ### Evaluation
 
