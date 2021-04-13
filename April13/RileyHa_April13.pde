@@ -1,4 +1,3 @@
-// Import stuff here, and declare their varibales:
 
 import processing.sound.*;
 SoundFile file;
@@ -16,16 +15,16 @@ float ypos;
 
 void setup() {
 
-  // code part for serial:
+  // serial:
 
   myPort = new Serial(this, Serial.list()[1], 9600);
 
   myPort.bufferUntil('\n');
 
-  // import sound file:
-  //file = new SoundFile(this, "money.wav");
+  // sound file:
+  file = new SoundFile(this, "tada.wav");
 
-  // import images:
+  // images:
   cone = loadImage("cone1.png");
   icecream = loadImage("icecream1.png");
 
@@ -45,7 +44,6 @@ void draw() {
 }
 
 
-// contact with arduino:
 
 void serialEvent(Serial myPort) {
 
@@ -69,7 +67,7 @@ void serialEvent(Serial myPort) {
   myPort.write("A"); 
 
 
-  if (xpos <= 270 && xpos >= 230 && ypos <= 190 && ypos >= 100) {
+  if (xpos <= 400 && xpos >= 450 && ypos <= 300 && ypos >= 370) {
 
     myPort.write("Y");
     noLoop();
@@ -79,6 +77,8 @@ void serialEvent(Serial myPort) {
 
 
 void drawBackground() {
+
   background(255);
   image(cone, width/2, height/2);
+  
 }
