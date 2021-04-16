@@ -10,7 +10,10 @@ I had two ideas in mind.
 
 However, since I wanted to do something meaningful and unique to me, I decided to go for the first idea - Trivia for HSM Fans! 
 
+![](Images/hsm1.jpeg)
+
 High School Musical is my comfort movie (I am sure that I watched the whole series more than 30 times). Thus, I decided to go with the topic - "Which High School Musical Character Are You?" This idea was based not only on my interest but also my desire to advertise this wonderful movie to everyone.
+
 
 This is not a game in which you compete with others to earn points; it is rather a game that everyone (from HSM manias to those who does not know about the movie at all) can relax and enjoy. 
 
@@ -38,3 +41,7 @@ I used PowerPoint.
 ### Coming up with questions for the Trivia
 
 Today I thought of 10 questions related to each main characters of HSM. 
+
+![](Images/characters.jpeg)
+
+There are 6 main characters in HSM (Ryan, Sharpay, Troy, Gabriella, Chad, Taylor in order)
