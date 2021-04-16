@@ -45,3 +45,10 @@ Today I thought of 10 questions related to each main characters of HSM.
 ![](Images/characters.jpeg)
 
 There are 6 main characters in HSM (Ryan, Sharpay, Troy, Gabriella, Chad, Taylor in order)
+It was quite difficult to come up with questions unique to each characters - even if I watched them for over 10 years!
+
+**References:**
+
+https://www.seventeen.com/celebrity/celeb-quizzes/a27294/hsm-character-quiz/
+https://www.buzzfeed.com/ehisosifo1/high-school-musical-character-quiz
+https://www.buzzfeed.com/squozz357/which-high-school-musical-character-are-you-1bs04bwadc
