@@ -49,6 +49,8 @@ It was quite difficult to come up with questions unique to each characters - eve
 
 **References:**
 
-https://www.seventeen.com/celebrity/celeb-quizzes/a27294/hsm-character-quiz/
-https://www.buzzfeed.com/ehisosifo1/high-school-musical-character-quiz
-https://www.buzzfeed.com/squozz357/which-high-school-musical-character-are-you-1bs04bwadc
+![Seventeen.com](https://www.seventeen.com/celebrity/celeb-quizzes/a27294/hsm-character-quiz/)
+
+![Buzzfeed 1](https://www.buzzfeed.com/ehisosifo1/high-school-musical-character-quiz)
+
+![Buzzfeed 2](https://www.buzzfeed.com/squozz357/which-high-school-musical-character-are-you-1bs04bwadc)
