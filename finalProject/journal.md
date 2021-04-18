@@ -35,6 +35,7 @@ Today, I wrote down few tasks/challenges that must be solved. In other words, th
 
 I briefly designed the blueprint of how my trivia will look like. 
 I used PowerPoint. 
+![](Images/blueprint.jpeg)
 
 ## 16 April 2021
 
