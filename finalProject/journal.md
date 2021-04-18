@@ -35,7 +35,7 @@ Today, I wrote down few tasks/challenges that must be solved. In other words, th
 
 I briefly designed the blueprint of how my trivia will look like. 
 I used PowerPoint. 
-![](Images/blueprint.jpeg)
+![](Images/blueprint.png)
 
 ## 16 April 2021
 
@@ -55,3 +55,8 @@ It was quite difficult to come up with questions unique to each characters - eve
 [Buzzfeed 1](https://www.buzzfeed.com/ehisosifo1/high-school-musical-character-quiz)
 
 [Buzzfeed 2](https://www.buzzfeed.com/squozz357/which-high-school-musical-character-are-you-1bs04bwadc)
+
+
+## 17 April 2021
+
+### Starting Arduino part of code
