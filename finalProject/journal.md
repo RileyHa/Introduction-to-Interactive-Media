@@ -41,7 +41,7 @@ I used PowerPoint.
 
 ### Coming up with questions for the Trivia
 
-Today I thought of 10 questions related to each main characters of HSM. 
+Today I thought of 11 questions related to each main characters of HSM. I first thought that 10 questions would be enough, but I found out that there might be times when a tie happens. Thus, I decided to make the questions an odd number so that a tie does not happen.
 
 ![](Images/characters.jpeg)
 
