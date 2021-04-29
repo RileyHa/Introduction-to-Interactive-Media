@@ -32,8 +32,7 @@ Below is the schematic for the project.
 ## Circuit
 
 Below is the photo of the final circuit.
-![](Images/circuit.png)
-
+<img src=Images/circuit.png width="400"> 
 
 ## Game Demonstration  
 
