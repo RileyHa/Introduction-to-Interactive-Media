@@ -1,5 +1,3 @@
-# Riley Ha Intro to IM Final Project
-
 # Trivia game for High School Musical Fans (or soon to be Fans)
 
 ## Ideation & Description
