@@ -27,11 +27,12 @@ The description of the classes are further explained in my journal.
 
 Below is the schematic for the project.
 
-![](Images/schematic.png)
+<img src=Images/schematic.png width="400"> 
 
 ## Circuit
 
 Below is the photo of the final circuit.
+
 <img src=Images/circuit.png width="400"> 
 
 ## Game Demonstration  
