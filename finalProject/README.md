@@ -41,7 +41,7 @@ Below is the photo of the final circuit.
 
 Click to see the demonstration video. 
 
-![Click](https://youtu.be/X1lIdxWAabE)
+[Click](https://youtu.be/X1lIdxWAabE)
 
 
 ## Challenges
