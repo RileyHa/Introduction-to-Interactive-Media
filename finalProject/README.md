@@ -56,6 +56,10 @@ I initially thought of arrays, but since I was more used to list, I decided to g
 Why can I never be used to this processing and arduino communication :(
 It seems like I struggle every time. I think I should work on this more. 
 
+### Evaluation
+
+I personally think that this project was a bit static. I feel like I was rushing in time. Next time, I want to add other elements such as sound and photoresistor. After I am done with all of my other final projects, I hope to redo and fix some parts and make a more dymanic game.
+
 ## Checkpoint
 
 - A description of your concept and how it was achieved
