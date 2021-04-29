@@ -29,7 +29,7 @@ The description of the classes are further explained in my journal.
 
 Below is the schematic for the project.
 
-![](Images/schematic.jpg)
+![](Images/schematic.png)
 
 ## Circuit
 
