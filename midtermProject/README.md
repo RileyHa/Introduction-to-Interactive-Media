@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 '**My Burger Shop**' 
-is an easy and fun game that players has to catch the falling ingredients of the burger according to the customer's order displayed on the upper part of the screen. You Want to Build a Snowman" from the movie Frozen is being played, among many items that are falling from the sky, players' have to catch the snowman icon. Once they catch the correct icon, the next song will play. The aim of this game is to complete catching all five icons that matches the song without getting hit by the bomb. Through this project, I hope players to have fun playing game but also enjoy listening to some of my favorite songs! 
+is an easy and fun game that players has to catch the falling ingredients of the burger according to the customer's order displayed on the upper part of the screen. 
 
 ## How did I come up with this game?
 I got the idea from 'Sky Burger'. I remember enjoying the game a lot, so I decided to give some changes and variation to my childhood game. 
